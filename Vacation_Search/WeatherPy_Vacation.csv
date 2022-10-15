@@ -1,4 +1,4 @@
-,City,Country,Max Temp,Description,Lat,Lng,Hotel Name
+City_ID,City,Country,Max Temp,Description,Lat,Lng,Hotel Name
 1,Georgetown,MY,84.13,scattered clouds,5.4112,100.3354,Cititel Penang
 2,Isangel,VU,78.91,scattered clouds,-19.55,169.2667,Tanna Lodge
 5,Luanda,AO,77.0,overcast clouds,-8.8368,13.2343,EPIC SANA Luanda

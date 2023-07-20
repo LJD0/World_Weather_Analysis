@@ -1,6 +1,6 @@
 # World_Weather_Analysis
-Weather Analysis using APIs
+Weather Analysis using Python and APIs
 
-Note: This repository is deprecated and is not actively maintained.
+**Note: This repository is deprecated and not actively maintained.**
 
-Please see [https://github.com/LJD0/Weather_Map] for an updated version.
+Check out (this repo)[https://github.com/LJD0/Weather_Map] for an updated implementation of this code.
